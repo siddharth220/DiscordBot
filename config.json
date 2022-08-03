@@ -1,0 +1,28 @@
+{
+    "BOT_TOKEN": "",
+    "PREFIX": "",
+    "SERVER_NAME": "",
+    "GUILD_ID": "",
+    "SERVER_LOGO": "",
+    "SERVER_URL": "",
+    "EMBED_COLOR": "",
+    "USER_JOIN_IMAGE": "",
+    "USER_LEFT_IMAGE": "",
+    "JOIN_ROLE": "",
+    "MESSAGES": {
+        "JOIN_MESSAGE": "",
+        "LEFT_MESSAGE": "",
+        "JOIN_FOOTER": "",
+        "LEFT_FOOTER": "",
+        "TAGGED_MESSAGE": ""
+    },
+    "CHANNELS": {
+        "JOIN_CHANNEL": "",
+        "LEFT_CHANNEL": "",
+        "SEND_MESSAGE": "",
+        "EMBED_TAG": "",
+        "SERVER_RULES": "",
+        "FAQ": ""
+    }
+
+}
