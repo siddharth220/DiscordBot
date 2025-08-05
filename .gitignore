@@ -1,0 +1,43 @@
+# ─── Node.js dependencies ───────────────────────────────────────────────
+node_modules/
+package-lock.json
+npm-debug.log*
+yarn.lock
+pnpm-lock.yaml
+
+# ─── Build / cache output ───────────────────────────────────────────────
+dist/
+build/
+*.tsbuildinfo
+.cache/
+coverage/
+
+# ─── Environment & config files (keep secrets out of Git) ───────────────
+.env
+.env.*          # e.g. .env.production, .env.local
+config.json     # your per-guild settings file
+token.txt       # any file that stores the bot token
+
+# ─── Logs ───────────────────────────────────────────────────────────────
+logs/
+*.log
+*.log.*
+
+# ─── OS-specific junk ───────────────────────────────────────────────────
+.DS_Store       # macOS
+Thumbs.db       # Windows
+
+# ─── Editor / IDE folders ───────────────────────────────────────────────
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# ─── Optional: test & debug artifacts ───────────────────────────────────
+*.tgz
+*.zip
+*.sqlite
+*.sqlite3
+*.bak
